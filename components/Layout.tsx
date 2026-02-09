@@ -38,7 +38,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
         <div className="p-6 border-b border-slate-800">
           <div className="flex items-center gap-2 text-indigo-400">
             <Activity size={28} />
-            <span className="text-xl font-bold tracking-tight text-white">VetFlow Pro</span>
+            <span className="text-xl font-bold tracking-tight text-white">Painel Pet Shop</span>
           </div>
         </div>
         
